@@ -9,9 +9,9 @@ Under Report, you will find a report briefly describing our findings. There will
 
 
 ## Problem: ##
-Consider two nucleons each of mass $m=938$ MeV/$c^2$
+Consider two nucleons each of mass m=938 MeV/c^2
 interacting via a central potential given by an attractive rectangular well.
-where $V_0$ is positive and $R=1.45$ fm.
+where V_0 is positive and R=1.45 fm.
 
 This project sets out to explore this scattering problem numerically.
 - Numerov's algorithm will be used to numerically calculate the scattered wavefunctions.
